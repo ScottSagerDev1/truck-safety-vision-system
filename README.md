@@ -4,7 +4,7 @@ Edge AI computer vision system using Raspberry Pi 5 and Edge Impulse to detect t
 
 **Edge AI system to detect and report aggressive driving by commercial vehicles**
 
-## 🚛 The Problem
+##  The Problem
 
 As a commercial driver, I witness dangerous tailgating by 18-wheelers daily. These drivers operate with impunity, even in front of law enforcement, creating serious safety risks for everyone on the road. Current enforcement is reactive - officers only get involved after crashes occur. 
 
@@ -12,7 +12,7 @@ Many companies have systems that detect dangerous driving by their own employees
 
 Aggressive commercial drivers need accountability, and companies need better visibility into their drivers' behavior on the road.
 
-## 💡 The Solution
+##  The Solution
 
 An Edge AI system that:
 - **Detects** tailgating behavior (following distance of one car length or less) using computer vision
@@ -30,14 +30,14 @@ Create a distributed network where multiple trucks running this system contribut
 - **Computer Vision**: Object detection + distance estimation for tailgating detection, OCR for DOT number capture
 - **Storage**: High-endurance microSD (initially), future cloud integration
 
-## 📍 Current Status
+##  Current Status
 
-**Phase 0: Setup & Learning** ✅ (You are here!)
+**Phase 0: Setup & Learning**  
 - Repository created
 - Hardware acquired
 - Starting with single left-side camera for proof of concept
 
-**Phase 1: Basic Detection** 🔄 (Next)
+**Phase 1: Basic Detection**
 - Train model to identify 18-wheelers
 - Implement tailgating detection algorithm
 - Test on real road footage
@@ -54,9 +54,9 @@ Create a distributed network where multiple trucks running this system contribut
 - Multi-device data aggregation platform
 - DOT/FMCSA integration exploration
 
-## 🤝 Contributing
+##  Contributing
 
-This project is in early stages and I'm **building in public**. I'm learning as I go - coming from a trucking background with basic web dev skills, not a CS degree.
+This project is in early stages and I'm **building in public**. I'm learning as I go - coming from a trucking background with very basic web dev skills.
 
 **Ways to contribute:**
 - Computer vision expertise
@@ -67,7 +67,7 @@ This project is in early stages and I'm **building in public**. I'm learning as 
 
 *Note: Core software will be source-available. Commercial licensing to be determined. Contributions welcome under CLA.*
 
-## 📚 Building in Public
+##  Building in Public
 
 Follow the journey:
 - **GitHub**: Right here - watch for commits and issues
@@ -76,14 +76,14 @@ Follow the journey:
 - **LinkedIn**: http://linkedin.com/in/scott-sager-b94273361
 
 
-## 👤 About Me
+##  About Me
 
-I'm a commercial truck driver with a hightened awareness of dangerous drivers that endanger public safety. My ultimate goal is to save lives. I have basic coding skills (freeCodeCamp responsive web design, published Bubble.io app, some Linux/Git) and a passion, learned about late in life, for using technology to solve real problems. This is my first hardware + AI project, and I'm documenting everything along the way. It'll be slow going with minimal time, but looking forward to learning and meeting interesting, likeminded individuals along the way.
+I'm a commercial truck driver with a heightened awareness of dangerous drivers that endanger public safety. My ultimate goal is to save lives. I have basic coding skills (freeCodeCamp responsive web design, published Bubble.io app, some Linux/Git, learning C) and a passion, learned about late in life, for using technology to solve real problems. This is my first hardware + AI project, and I'm documenting everything along the way. It'll be slow going with minimal time, but looking forward to learning and meeting interesting, like-minded individuals along the way.
 
-## 📄 License
+##  License
 
 Source-available for personal, educational, and research use. Commercial use requires separate licensing. See LICENSE file for details.
 
 ---
 
-**Status**: 🟢 Active Development | **Last Updated**: Nov. 25th, 2025
+**Status**:  Paused to finish another project (Admixhub) | **Last Updated**: Nov. 25th, 2025
