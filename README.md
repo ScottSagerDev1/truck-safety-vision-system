@@ -73,7 +73,7 @@ Follow the journey:
 - **GitHub**: Right here - watch for commits and issues
 - **YouTube**: http://www.youtube.com/@ScottSager_Dev1 (coming soon)
 - **X/Twitter**: https://x.com/scottsagerdev1
-- **LinkedIn**: http://linkedin.com/in/scott-sager-b94273361
+- **LinkedIn**: https://www.linkedin.com/in/scott-sager-04996a433
 
 
 ##  About Me
