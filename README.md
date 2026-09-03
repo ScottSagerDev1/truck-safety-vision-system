@@ -23,7 +23,7 @@ An Edge AI system that:
 ### Future Vision
 Create a distributed network where multiple trucks running this system contribute to a real-time safety intelligence platform, making dangerous driving patterns visible and consequential.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Hardware**: Raspberry Pi 5 (8GB) with wide-angle camera modules
 - **ML Platform**: Edge Impulse for model training and deployment
