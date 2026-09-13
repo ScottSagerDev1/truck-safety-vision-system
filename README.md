@@ -86,4 +86,4 @@ Source-available for personal, educational, and research use. Commercial use req
 
 ---
 
-**Status**:  Paused to finish another project (Admixhub) | **Last Updated**: Nov. 25th, 2025
+**Status**:  Active| **Last Updated**: September 13, 2026
